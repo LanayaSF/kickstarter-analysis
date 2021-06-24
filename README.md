@@ -1,2 +1,2 @@
-# kickstarter-analysis
-2021 UofT Data Analytics Bootcamp - Kickstarter (Module 1)
+# An Analysis of Kickstarter Campaigns
+Analyzed Kickstarter data to understand the determinants of successful and failed campaigns 
